@@ -3,15 +3,13 @@
 
 
 
-<![endif]-->
+
 
 ## Resumen
 
 Este programa analiza la opción call GFGC1033OC mediante el modelo Black-Scholes. Se obtienen datos de la cotización de este activo en sus precios bid y ask de la prima y el activo subyacente a partir del archivo Exp_Octubre.csv. Se calculan la volatilidad implícita y realizada del activo y guarda lo producido en el archivo  volatilidades.csv.
 
 ## Supuestos del modelo
-
-<![endif]-->
 
  - La opción es de tipo europea. Sólo puede ejecutarse al vencimiento.
  - No hay costos de transacción o impuestos.
@@ -84,8 +82,6 @@ A continuación, se muestran los gráficos de las volatilidades con las variacio
 ![enter image description here](Grafico 2.png)
 
 
-
-<![endif]-->
 
 ## **Discrepancia significativas entre Volatilidad Implícita y Realizada.**
 
