@@ -79,8 +79,7 @@ A continuación, se muestran los gráficos de las volatilidades con las variacio
 ![enter image description here](https://github.com/johannabranfman/calculo_volatilidades/blob/main/Grafico%201.png)
 
 **Gráfico** **2**
-![enter image description here]((https://github.com/johannabranfman/calculo_volatilidades/blob/main/Grafico%202.png)
-
+![enter image description here](https://github.com/johannabranfman/calculo_volatilidades/blob/f8b5eb3fff27d739c65a2f66598e753076f8484f/Grafico%202.png)
 
 
 ## **Discrepancia significativas entre Volatilidad Implícita y Realizada.**
